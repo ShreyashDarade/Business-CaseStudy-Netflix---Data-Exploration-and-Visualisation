@@ -62,3 +62,14 @@ This tabular dataset consists of data as of `mid-2021`, about `8807` movies and 
 **5. Optimizing Content Acquisition Strategy**
 
 - Given the trend of faster availability of TV shows compared to movies, Netflix could work on acquiring more recent movies and reducing the time lag between their theatrical release and availability on the platform. This could cater to the audience's preference for up-to-date TV shows and movies.
+
+
+## Contributors
+- **Shreyash Darade**: Data Analyst and Developer.
+
+Feel free to contribute by submitting a pull request or suggesting improvements!
+
+---
+
+## Contact
+For queries or feedback, reach out at: [shreyashdarade555@gmail.com](mailto:shreyashdarade555@gmail.com).
